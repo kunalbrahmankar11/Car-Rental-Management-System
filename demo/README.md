@@ -1,7 +1,7 @@
-Car-Rental-Management-System
+🚀Car-Rental-Management-System🚀
 A Web Application that acts as a car rental company. The user can view the available cars, then pay for the access to the selected package, and finally pick up his car. The main reason for me to create this application was to learn Junit and Mockito testing.
 
-Technologies Used
+#Technologies Used
 Java
 Spring Boot Framework
 MySQL
