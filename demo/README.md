@@ -1,4 +1,5 @@
-##🚀Car-Rental-Management-System🚀
+
+## 📌 Key Features
 A Web Application that acts as a car rental company. The user can view the available cars, then pay for the access to the selected package, and finally pick up his car. The main reason for me to create this application was to learn Junit and Mockito testing.
 
 #Technologies Used
