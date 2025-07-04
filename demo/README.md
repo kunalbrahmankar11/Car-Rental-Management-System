@@ -30,9 +30,9 @@ car-rental-backend/
 │ │ │ ├── controller/
 │ │ │ ├── service/
 │ │ │ ├── repository/
-│ │ │ ├── Entities/
-│ │ │ ├
-│ │ │ ├
+│ │ │ ├── model/
+│ │ │ ├── dto/
+│ │ │ ├── exception/
 │ │ │ └── CarRentalApplication.java
 │ │ └── resources/
 │ │ ├── application.properties
