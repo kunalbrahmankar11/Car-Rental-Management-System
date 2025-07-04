@@ -21,29 +21,7 @@ The Car Rental Management System is a backend application developed using Java a
 
 
 
-
-## 📁 Project Structure
-car-rental-backend/
-├── src/
-│ ├── main/
-│ │ ├── java/com/example/carrental/
-│ │ │ ├── controller/
-│ │ │ ├── service/
-│ │ │ ├── repository/
-│ │ │ ├── model/
-│ │ │ ├── dto/
-│ │ │ ├── exception/
-│ │ │ └── CarRentalApplication.java
-│ │ └── resources/
-│ │ ├── application.properties
-│ │ └── data.sql
-└── pom.xml
-
-
-
-
-
 ## 🙋‍♂️Contact
--Name: Krunal Brahmankar
--Email: krunalbrahmankar43@gmail.com
--LinkedIn: https://www.linkedin.com/in/krunalbrahmankar/
+📂Name: Krunal Brahmankar
+📂Email: krunalbrahmankar43@gmail.com
+📂LinkedIn: https://www.linkedin.com/in/krunalbrahmankar/
