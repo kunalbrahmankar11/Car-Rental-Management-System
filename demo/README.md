@@ -1,5 +1,6 @@
 
 ## 📌 Car Rental Management System
+**Introduction**
 The Car Rental Management System is a backend application developed using Java and Spring Boot that provides RESTful APIs to manage car inventory, customer bookings, and rental operations. It uses MySQL for data persistence and supports user authentication with role-based access. The system includes custom exceptions, data validations, and Swagger API documentation to ensure robustness and usability. Designed to be scalable and maintainable, it serves as the backend for a complete car rental service platform.
 
 ## 🏗️ Tech Stack
@@ -21,7 +22,7 @@ The Car Rental Management System is a backend application developed using Java a
 
 ## Installation 
 Clone this repository to your local machine:
-
+https://github.com/kunalbrahmankar11/Car-Rental-Management-System.git
 
 ## 🙋‍♂️ Contact
 **📂Name**: Krunal Brahmankar
