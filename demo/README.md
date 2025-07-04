@@ -1,6 +1,6 @@
 
 ## 📌 Car Rental Management System
-A Web Application that acts as a car rental company. The user can view the available cars, then pay for the access to the selected package, and finally pick up his car. The main reason for me to create this application was to learn Junit and Mockito testing.
+The Car Rental Management System is a backend application developed using Java and Spring Boot that provides RESTful APIs to manage car inventory, customer bookings, and rental operations. It uses MySQL for data persistence and supports user authentication with role-based access. The system includes custom exceptions, data validations, and Swagger API documentation to ensure robustness and usability. Designed to be scalable and maintainable, it serves as the backend for a complete car rental service platform.
 
 ## 🏗️ Tech Stack
 - 💻 **Language:** Java 17+
@@ -20,6 +20,6 @@ A Web Application that acts as a car rental company. The user can view the avail
 - ❌ Custom exception handling and validations
 
 ## 🙋‍♂️Contact
-Name: Krunal Brahmankar
-Email: krunalbrahmankar43@gmail.com
-LinkedIn: https://www.linkedin.com/in/krunalbrahmankar/
+-Name: Krunal Brahmankar
+-Email: krunalbrahmankar43@gmail.com
+-LinkedIn: https://www.linkedin.com/in/krunalbrahmankar/
