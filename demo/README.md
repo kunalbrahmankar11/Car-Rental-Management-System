@@ -22,6 +22,6 @@ The Car Rental Management System is a backend application developed using Java a
 
 
 ## 🙋‍♂️Contact
-📂Name: Krunal Brahmankar
-📂Email: krunalbrahmankar43@gmail.com
-📂LinkedIn: https://www.linkedin.com/in/krunalbrahmankar/
+**📂Name**: Krunal Brahmankar
+**📂Email**: krunalbrahmankar43@gmail.com
+**📂LinkedIn**: https://www.linkedin.com/in/krunalbrahmankar/
