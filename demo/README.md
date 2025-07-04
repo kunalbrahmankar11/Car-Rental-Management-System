@@ -8,6 +8,17 @@ MySQL
 Maven (for dependency management)
 Postman (for REST api)
 
+
+## 📌 Key Features
+
+- 🔐 User authentication and role-based access (Admin & Customer)
+- 🚘 Car inventory management (add, update, delete cars)
+- 📅 Rental booking and return handling
+- 📂 RESTful APIs for frontend integration
+- 🧾 Rental history and customer records
+- ❌ Custom exception handling and validations
+
+
 Getting Started
 Prerequisites
 Before you begin, ensure you have met the following requirements:
