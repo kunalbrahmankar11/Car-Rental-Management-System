@@ -15,7 +15,7 @@
 - 🔐 User authentication and role-based access (Admin & Customer)
 - 🚘 Car inventory management (add, update, delete cars)
 - 📅 Rental booking and return handling
-- 📂 RESTful APIs for frontend integration
+- 📂 RESTful APIs
 - 🧾 Rental history and customer records
 - ❌ Custom exception handling and validations
 
@@ -29,4 +29,4 @@ https://github.com/kunalbrahmankar11/Car-Rental-Management-System.git
 
 📂 Email: krunalbrahmankar43@gmail.com
 
-📂 LinkedIn: linkedin.com/in/krunalbrahmankar
+📂 LinkedIn: https://www.linkedin.com/in/krunalbrahmankar/
