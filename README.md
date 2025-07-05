@@ -23,7 +23,8 @@
 Clone this repository to your local machine:
 https://github.com/kunalbrahmankar11/Car-Rental-Management-System.git
 
-🙋‍♂️ Contact
+## 🙋‍♂️ Contact
+
 📂 Name: Krunal Brahmankar
 
 📂 Email: krunalbrahmankar43@gmail.com
